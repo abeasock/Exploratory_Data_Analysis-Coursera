@@ -1,4 +1,6 @@
-# Exploratory Data Analysis-Coursera
+# Exploratory Data Analysis
+**Johns Hopkins University on Coursera**  
+**December 2015**
 
 This course featured two projects. My projects can be viewed in the the folders "Course_Project_1" and "Course_Project_2." 
 
