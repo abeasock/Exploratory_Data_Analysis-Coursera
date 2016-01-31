@@ -2,7 +2,7 @@
 **Johns Hopkins University on Coursera**  
 **December 2015**
 
-My two projects for this course can be viewed in the the folders "Course_Project_1" and "Course_Project_2." 
+My two projects for this course can be viewed in the folders "Course_Project_1" and "Course_Project_2." 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
